@@ -1,6 +1,11 @@
 # projekt-OI
 Personalizirani vodič za prehranu i fitness Upute za korištenje aplikacije
 
+LINK:
+
+
+https://gabrielnadal.shinyapps.io/gabrielnadal/
+
 
 
 Aplikacija koju sam napravio služi za optimizaciju prehrane i fizičke aktivnosti kako bi korisnici postigli svoje fitness ciljeve, bilo da žele smršaviti, održavati trenutnu težinu ili unaprijediti svoju kondiciju.
